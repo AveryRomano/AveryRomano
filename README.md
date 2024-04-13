@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avery 
-- 👀 I’m interested in SQL, Python
+- 👀 I’m interested in Data, SQL, Python, Snowflake
 - 🌱 I’m currently learning BI, PySpark
 - 📫 How to reach me AveryR9598@gmail.com
 - 😄 Pronouns: He/Him
